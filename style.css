@@ -75,3 +75,13 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+
+
+/* --------------------
+　　　　ヘッダー画像
+-------------------- */
+header figure img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
